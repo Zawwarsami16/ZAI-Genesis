@@ -1,0 +1,5 @@
+genesis_data/
+__pycache__/
+*.pyc
+.env
+*.zip
